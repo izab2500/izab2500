@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hej och välkommen till min GitHub-profil
 
-<!--
-**izab2500/izab2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Om mig
 
-Here are some ideas to get you started:
+Jag heter Ziad och studerar **Webbutveckling** vid **Mittuniversitetet** med start HT-25.  
+Här på GitHub samlar jag mina projekt och inlämningsuppgifter från utbildningen.  
+📚 Fokus ligger på **modern webbutveckling**, både frontend och backend såväl som fullstack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤓 Kurser på programmet
+
+- 🟩 Webbutveckling I
+- 🟩 Introduktion till programmering i JavaScript
+- 🟩 Grafiskt teknik för webb
+- 🟩 Webbanvändbarhet
+- 🟦 Frontend-baserad webbutveckling
+- 🟦 Databaser
+- 🟦 Backend-baserad webbutveckling
+- 🟦 Programmering i TypeScript
+- 🟨 Programmering i C#.NET
+- 🟨 Projektledning
+- 🟨 Fullstack-utveckling med ramverk
+- 🟨 Webbutveckling för WordPress
+- 🟧 Fördjupad frontend-utveckling
+- 🟧 Webbutveckling med .NET
+- 🟧 Självständigt arbete
+
+## ✉️ Kontakt
+ziba2500@student.miun.se
+
