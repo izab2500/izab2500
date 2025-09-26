@@ -11,7 +11,7 @@ Här på GitHub samlar jag mina projekt och inlämningsuppgifter (de som inte pu
 ## 🍁 HT-25
 - 🟩 Webbutveckling I
 - 🟩 Introduktion till programmering i JavaScript
-- 🟩 Grafiskt teknik för webb
+- 🟩 Grafisk teknik för webb
 - 🟩 Webbanvändbarhet
 
 ## 🌼 VT-25
