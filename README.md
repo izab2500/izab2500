@@ -31,6 +31,30 @@ Här på GitHub samlar jag mina projekt och inlämningsuppgifter (de som inte pu
 - 🟧 Webbutveckling med .NET
 - 🟧 Självständigt arbete
 
+## 🚀 Tech stack
+Teknologier och verktyg jag har använt i mina projekt, indelade i Frontend, Backend, Databaser, Design & UX samt Tools & Workflow.
+
+### 🎨 Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+### 🗄️ Databaser
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+### 💻 Fullstack 
+Fullstack teknologier jag har använt i mina projekt.
+
+#### 👹 MEAN-stack
+[![MEAN Stack](https://skillicons.dev/icons?i=mongodb,express,angular,nodejs)](https://skillicons.dev)
+
+### 🎯 Design & UI/UX
+[![Design Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+### 🛠️ Tools & Workflow
+[![Tools](https://skillicons.dev/icons?i=vite,git,github)](https://skillicons.dev)
+
 ## ✉️ Kontakt
 ziba2500@student.miun.se
 
